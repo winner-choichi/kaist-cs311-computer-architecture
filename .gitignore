@@ -1,0 +1,25 @@
+# Compiled files
+*.o
+*.out
+*.exe
+runfile
+cs311sim
+cs311mmu
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+*.dSYM/
+page_table_dump
+
+# Test outputs
+sample_output/*_test
